@@ -1,9 +1,9 @@
-*Your GenAI-RAG-Q-n-A-chatbot
+**Your GenAI-RAG-Q-n-A-chatbot**
 
 incorporates multiple Machine Learning (ML), Natural Language Processing (NLP), and Software Engineering concepts. Below is a breakdown of the key concepts used in this project:
 
  Machine Learning (ML) Concepts
-#1.1. Embeddings & Vector Representation
+**1.1. Embeddings & Vector Representation**
 Concept: Text is converted into numerical representations (embeddings) to allow similarity comparisons.
 Usage in Project:
 You use sentence-transformers from HuggingFace to generate embeddings.
