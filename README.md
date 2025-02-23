@@ -4,6 +4,7 @@ incorporates multiple Machine Learning (ML), Natural Language Processing (NLP), 
 
  Machine Learning (ML) Concepts
 **1.1. Embeddings & Vector Representation**
+
 Concept: Text is converted into numerical representations (embeddings) to allow similarity comparisons.
 Usage in Project:
 You use sentence-transformers from HuggingFace to generate embeddings.
