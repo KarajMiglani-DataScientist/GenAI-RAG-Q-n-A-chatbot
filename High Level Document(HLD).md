@@ -1,5 +1,4 @@
-
-#Project Name: GenAI-RAG-Q-n-A-chatbot App
+**#Project Name: GenAI-RAG-Q-n-A-chatbot App**
 
 1. Overview
 
