@@ -1,10 +1,10 @@
 **#Project Name: GenAI-RAG-Q-n-A-chatbot App**
 
-1. Overview
+#1. Overview
 
-RAG Fusion Q&A App is an AI-powered Retrieval-Augmented Generation (RAG) system that allows users to ask questions based on different input sources (text, PDFs, DOCX, links) and receive AI-generated answers. It integrates FAISS for vector search, Hugging Face LLMs for text generation, and Streamlit for UI.
+GenAI-RAG-Q-n-A-chatbot App is an AI-powered Retrieval-Augmented Generation (RAG) system that allows users to ask questions based on different input sources (text, PDFs, DOCX, links) and receive AI-generated answers. It integrates FAISS for vector search, Hugging Face LLMs for text generation, and Streamlit for UI.
 
-2. System Architecture
+#2. System Architecture
 
 a) Input Sources
 
