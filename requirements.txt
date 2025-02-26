@@ -1,13 +1,8 @@
+streamlit
+google-generativeai
 langchain
-numpy
-streamlit
-langchain-community
-streamlit
 PyPDF2
-unstructured
-nltk
-sentence-transformers
-langchain-huggingface
+chromadb
 faiss-cpu
-python-docx
 langchain_google_genai
+os
